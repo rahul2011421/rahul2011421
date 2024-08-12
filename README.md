@@ -15,15 +15,21 @@
 - 📫 How to reach me: **rahulyadavv2011421@gmail.com**
 - ⚡ Fun fact: **Passionate about discussing Cricket**
 
+<h4 align="left"> 📄 Resume Link: **https://drive.google.com/file/d/1NBoWfeeVKqGtXc6zMa8Lv_qjKWCDim2X/view?usp=drive_link** </h4>
 
-You can connect with me here,
+
+
+
+
+<h4 align="left"> You can connect with me here:</h4>
 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/rahul-yadav-195939207/)
-[<img src="https://img.shields.io/badge/LeetCode-%23FFA116.svg?&style=for-the-badge&logo=leetcode&logoColor=white"/>](https://leetcode.com/u/rahul_2011421/)
 [<img src="https://img.shields.io/badge/GeeksforGeeks-%2300C853.svg?&style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>](https://www.geeksforgeeks.org/user/rahulyadavv2011421/)
+[<img src="https://img.shields.io/badge/LeetCode-%23FFA116.svg?&style=for-the-badge&logo=leetcode&logoColor=white"/>](https://leetcode.com/u/rahul_2011421/)
 [<img src="https://img.shields.io/badge/HackerRank-%232EC866.svg?&style=for-the-badge&logo=hackerrank&logoColor=white"/>](https://www.hackerrank.com/profile/rahulyadavv20111)
-[<img src="https://img.shields.io/badge/WHATSAPP-%2325D366.svg?&style=for-the-badge&logo=whatsapp&logoColor=white"/>](https://wa.me/916307866007)
 [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/rahuul_65/?next=%2F)
+[<img src="https://img.shields.io/badge/WHATSAPP-%2325D366.svg?&style=for-the-badge&logo=whatsapp&logoColor=white"/>](https://wa.me/916307866007)
+
 
 
 <!-- [<img src ="https://img.shields.io/badge/portfolio-web-%23.svg?&style=for-the-badge&logo=&logoColor=white%22">](https://harshit9665.github.io/) -->
@@ -37,6 +43,8 @@ You can connect with me here,
 
   <img src="https://github-readme-stats.vercel.app/api?username=rahul2011421&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   </div>
+
+  <br>
 
 <div align="center" style="display: flex; justify-content: center; align-items: center;">
   <img src="https://komarev.com/ghpvc/?username=rahul2011421" alt="rahul2011421" style="margin-right: 10px; width: 130px; height: 25px;" />
