@@ -19,8 +19,13 @@
 You can connect with me here,
 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/rahul-yadav-195939207/)
+[<img src="https://img.shields.io/badge/LeetCode-%23FFA116.svg?&style=for-the-badge&logo=leetcode&logoColor=white"/>](https://leetcode.com/u/rahul_2011421/)
+[<img src="https://img.shields.io/badge/GeeksforGeeks-%2300C853.svg?&style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>](https://www.geeksforgeeks.org/user/rahulyadavv2011421/)
+[<img src="https://img.shields.io/badge/HackerRank-%232EC866.svg?&style=for-the-badge&logo=hackerrank&logoColor=white"/>](https://www.hackerrank.com/profile/rahulyadavv20111)
 [<img src="https://img.shields.io/badge/WHATSAPP-%2325D366.svg?&style=for-the-badge&logo=whatsapp&logoColor=white"/>](https://wa.me/916307866007)
 [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/rahuul_65/?next=%2F)
+
+
 <!-- [<img src ="https://img.shields.io/badge/portfolio-web-%23.svg?&style=for-the-badge&logo=&logoColor=white%22">](https://harshit9665.github.io/) -->
 <!-- [<img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white"/>](https://medium.com/@harshit9665) -->
 <!-- [<img src = "https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white">](https://www.facebook.com/aarav9665) -->
