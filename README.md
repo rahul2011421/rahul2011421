@@ -12,7 +12,7 @@
 - 🌱 I’m currently learning **Spring frameworks** and **System Design**
 - 👯 I’m looking to collaborate on **Java** and **Spring Boot** Projects.
 - 💬 Ask me about **Data Structures, Algorithms, Java, Microservices, Spring Boot and Docker**
-- 📫 How to reach me: **rahulyadavv2011421@gmail.com**
+- 📫 How to reach me: **rahuuly65@gmail.com**
 - ⚡ Fun fact: **Passionate about discussing Cricket**
 
 <h4 align="left"> 📄 Resume Link: **https://drive.google.com/file/d/1NBoWfeeVKqGtXc6zMa8Lv_qjKWCDim2X/view?usp=drive_link** </h4>
