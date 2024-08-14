@@ -15,7 +15,7 @@
 - 📫 How to reach me: **rahuuly65@gmail.com**
 - ⚡ Fun fact: **Passionate about discussing Cricket**
 
-<h4 align="left"> 📄 Resume Link: **https://drive.google.com/file/d/1NBoWfeeVKqGtXc6zMa8Lv_qjKWCDim2X/view?usp=drive_link** </h4>
+<h4 align="left"> 📄 Resume Link: **https://drive.google.com/file/d/1NFSY1GQ5zVQNctsNcZEdo8rggaHmUVFg/view?usp=drive_link** </h4>
 
 
 
